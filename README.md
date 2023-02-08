@@ -1,2 +1,2 @@
 # qr-code-challenge
-<img href = "design/desktop-preview.jpg"/>
+<img src = "design/desktop-preview.jpg"/>
